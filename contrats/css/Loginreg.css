@@ -1,0 +1,28 @@
+.hed1{
+    padding: 0.2%;
+}
+.sec1{
+    background-color: rgba(252, 204, 204, 0.625);
+    padding: 2%;
+    width: 50%;
+    border-radius: 3pt;
+    justify-self: center;
+    justify-content: center;
+    display: grid;
+}
+.foo1{
+    padding: 0.2%;
+}
+.em{
+    padding: 0.2%;
+
+}
+.pass {
+    padding: 0.2%;
+}
+.reg {
+    padding: 0.2%;
+}   
+.en {
+    padding: 0.2%;
+}
